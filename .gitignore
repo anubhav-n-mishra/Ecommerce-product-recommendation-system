@@ -1,0 +1,38 @@
+# Large Model Files (>100MB GitHub limit)
+*.pkl
+*.joblib
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+env/
+.env
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Large datasets
+*.csv.gz
+*.zip
+*.tar.gz
+
+# Model training logs
+logs/
+models/
+
+# Temporary files
+*.tmp
+*.temp
